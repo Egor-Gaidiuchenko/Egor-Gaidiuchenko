@@ -6,7 +6,7 @@ After getting a bachelor's degree in aerospace engineering, I realized that it w
 
 ### Pet-projects
 
-#### Connect Four Game
+#### [Connect Four Game](https://github.com/Egor-Gaidiuchenko/connectFour)
 
 Here I:
 
@@ -14,7 +14,7 @@ Here I:
 * Styled project using SCSS preprocessor
 * Made full game logic
 
-#### REST Countries
+#### [REST Countries](https://github.com/Egor-Gaidiuchenko/RESTCountries)
 
 Here I:
 
@@ -22,7 +22,7 @@ Here I:
 * Made filter system and search for the page
 * Made Dark Mode for the page
 
-#### Pomodoro
+#### [Pomodoro](https://github.com/Egor-Gaidiuchenko/pomodoro)
 
 Here I:
 
@@ -30,7 +30,7 @@ Here I:
 * Used BEM
 * Made flexible settings for the timer
 
-### Diary
+#### [Diary](https://github.com/Egor-Gaidiuchenko/diary)
 
 Here I:
 
@@ -38,4 +38,12 @@ Here I:
 * Used Redux 
 * Made small local database wich used in the project 
 
-To see details of this projects or another ones check my repositories
+Another projects you may be interested in:
+ 
+[Go Green](https://github.com/Egor-Gaidiuchenko/goGreen)
+
+[Chocolate Bar](https://github.com/Egor-Gaidiuchenko/chocolateBar)
+
+[To Do List](https://github.com/Egor-Gaidiuchenko/toDoList)
+
+[Planets Info](https://github.com/Egor-Gaidiuchenko/planetsInfo)
