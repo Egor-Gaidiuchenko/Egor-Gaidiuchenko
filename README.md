@@ -2,6 +2,12 @@
 
 After getting a bachelor's degree in aerospace engineering, I realized that it was not what I wanted to do and decided to change my field of work. I chose frontend development, and have studied HTML, CSS, and JS. Currently, I am focusing on the React and Redux stack. 
 
+## Certifications
+
+|Name|Issuing organization|Credential URL|
+|Javascript for beginners|Stepik|[link](https://stepik.org/cert/1452781)|
+|The Complete JavaScript + React Course - From Zero to Result|Udemy|[link](https://www.udemy.com/certificate/UC-29d3033e-934b-4513-ab61-f4d52272d666)|
+
 ## Expirience
 
 ### Pet-projects
